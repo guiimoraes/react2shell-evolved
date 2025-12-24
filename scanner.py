@@ -380,7 +380,6 @@ def check_vulnerability(host: str, timeout: int = 10, verify_ssl: bool = True, f
         "X-Nextjs-Request-Id": "b5dce965",
         "Content-Type": content_type,
         "X-Nextjs-Html-Request-Id": "SSTMXm7OJ_g0Ncx6jpQt9",
-        "Host": "brpgames.com.br",
     }
 
     # Apply custom headers (override defaults)
